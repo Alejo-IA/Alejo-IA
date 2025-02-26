@@ -114,4 +114,8 @@ Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1292125138975985737)](https://discord.com/users/1292125138975985737)
+
+
 
