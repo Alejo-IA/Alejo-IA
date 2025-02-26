@@ -96,9 +96,5 @@ Kotlin       5 hrs 30 mins   ██░░░░░░░░░░░░░░░
 C++          3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.65%
 Bash         3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.25%
 Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-
-## 🔥 Languages Used
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo-IA&layout=compact&langs_count=10&theme=dark&bg_color=0A0A0A&title_color=00FF00&text_color=D3D3D3" alt="Top Languages">
-</div>
+<!--END_SECTION:waka-->
 
