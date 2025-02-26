@@ -83,6 +83,10 @@ I specialize in building innovative, robust, and scalable solutions.
 
 ---
 
+### 🎧 Now Playing: "too forever" (Prod. by ARZ)
+[![SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SoundCloud_logo.svg/320px-SoundCloud_logo.svg.png)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
+
+
 ## 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
@@ -96,5 +100,5 @@ Kotlin       5 hrs 30 mins   ██░░░░░░░░░░░░░░░
 C++          3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.65%
 Bash         3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.25%
 Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-<!--END_SECTION:waka-->
+
 
