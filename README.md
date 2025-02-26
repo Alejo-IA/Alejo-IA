@@ -4,7 +4,7 @@
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejo-IA)
@@ -99,8 +99,8 @@ I specialize in building innovative, robust, and scalable solutions.
 
 ## 📅 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
+
+
 Python       24 hrs 32 mins  ██████████████▒░░░░░░░░░  49.88%
 JavaScript   16 hrs 12 mins  ██████████▒░░░░░░░░░░░░░  28.76%
 HTML/CSS     12 hrs 45 mins  ██████▓░░░░░░░░░░░░░░░░░  15.75%
@@ -111,4 +111,5 @@ C++          3 hrs 45 mins   █▓░░░░░░░░░░░░░░░
 Bash         3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.25%
 Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
 
