@@ -13,10 +13,12 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="..." width="800" alt="Developer Banner">
+  <img src="![360_F_671283312_ib6uO3F02zWQXsPgCEaHF3LD7aB9Ltjt](https://github.com/user-attachments/assets/527a6c4c-2b35-41ac-9f60-120aba976daa)
+" width="800" alt="Developer Banner">
 </div>
 
-<img align="right" width="300" src="..." alt="Developer Image">
+<img align="right" width="300" src="![360_F_671283312_ib6uO3F02zWQXsPgCEaHF3LD7aB9Ltjt](https://github.com/user-attachments/assets/c5035fd6-850b-4654-a247-fc4495022d64)
+" alt="Developer Image">
 
 I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**.  
 I specialize in building innovative, robust, and scalable solutions.
