@@ -1,33 +1,36 @@
 <div align="center">
-<h2>¡Hola, Bienvenido a mi perfil de GitHub! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Welcome to my GitHub Profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://github.com/Alejo-IA" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:alejandro.workspace@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+<a href="https://www.youtube.com/@prodbyarz" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
 </a>
 
 <br /><br />
 
-Soy un **Desarrollador Full Stack** con experiencia en **Python, Flask, Django y PostgreSQL**, con un enfoque en soluciones innovadoras. Actualmente estudio **Ingeniería Informática** en la **Universidad Autónoma Latinoamericana**. 
+I am a **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**, focused on innovative solutions. Currently studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**.
 
-También me dedico a la personalización de sistemas y optimización de código, creando soluciones robustas y escalables.
+I specialize in system customization and code optimization, creating robust and scalable solutions.
 
-Me apasiona el desarrollo de **inteligencia artificial**, la creación de **aplicaciones web y móviles** y la **automatización de procesos**. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender.
+I am passionate about **artificial intelligence**, **web and mobile application development**, and **process automation**. Always seeking new challenges and opportunities to learn.
 
-💻 **Trabajo en proyectos como:**
-- 🔥 Desarrollo de un sistema de gestión de ventas para una tienda de repuestos eléctricos.
-- 🎵 Creación de una plataforma para la venta de beats con Flask.
-- 🎧 Proyecto de reconocimiento de canciones con Android Studio.
-- 🌐 Página web con animaciones y visualización de playlists de Spotify en GitHub Pages.
+🎵 **In addition to programming, I am also a music producer. Check out my latest beat:**
+- [Latest Beat](https://www.youtube.com/watch?v=nJL2gcmeGI4&ab_channel=Prodbyarz)
 
-Siéntete libre de explorar mis proyectos, abrir issues y enviar PRs si tienes ideas de mejora.<br />
+💻 **Working on projects like:**
+- 🔥 A sales management system for an auto parts store.
+- 🎵 A beat-selling platform using Flask.
+- 🎧 A music recognition project with Android Studio.
+- 🌐 A webpage with animations and Spotify playlist visualization on GitHub Pages.
 
-✉️ **Contáctame para colaborar o trabajar juntos:** [Correo](mailto:alejandro.workspace@outlook.com)
+Feel free to explore my projects, open issues, and send PRs if you have improvement ideas.<br />
+
+✉️ **Contact me for collaborations or work:** [Email](mailto:alejandro.workspace@outlook.com)
 
 <br />
 
@@ -37,7 +40,7 @@ Siéntete libre de explorar mis proyectos, abrir issues y enviar PRs si tienes i
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo-IA&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
 <br /><br />
 
-**¡Happy Coding! 🚀**
+**Happy Coding & Music Production! 🚀🎶**
 </div>
 
 ---
@@ -63,12 +66,12 @@ Siéntete libre de explorar mis proyectos, abrir issues y enviar PRs si tienes i
 
 <br /><br />
 
-¡Siempre en busca de nuevos desafíos y oportunidades para aprender más! 🚀
+Always looking for new challenges and opportunities to learn more! 🚀
 
 </div>
 
 ---
 
 <div align="center">
-Última actualización: 2025
+Last updated: 2025
 </div>
