@@ -12,11 +12,14 @@
 
 ## 🎧 Now Playing: "too forever" (Prod. by ARZ)
 
-[![SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SoundCloud_logo.svg/320px-SoundCloud_logo.svg.png)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
+<a href="https://soundcloud.com/prodbyarz/tooforever-prodbyarz">
+  <img src="https://img.icons8.com/?size=100&id=95395&format=png&color=000000" width="100">
+</a>
 
 🔗 **Listen now:** [too forever (Prod. by ARZ)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
 
 </div>
+
 
 
 ## 👨‍💻 About Me
