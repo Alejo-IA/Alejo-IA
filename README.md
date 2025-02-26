@@ -4,6 +4,9 @@
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
+![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejo-IA)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@prodbyarz)
