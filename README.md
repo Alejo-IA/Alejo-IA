@@ -8,7 +8,16 @@
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@prodbyarz)
 
+---
+
+## 🎧 Now Playing: "too forever" (Prod. by ARZ)
+
+[![SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SoundCloud_logo.svg/320px-SoundCloud_logo.svg.png)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
+
+🔗 **Listen now:** [too forever (Prod. by ARZ)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
+
 </div>
+
 
 ## 👨‍💻 About Me
 
@@ -82,9 +91,6 @@ I specialize in building innovative, robust, and scalable solutions.
 - **Automation & Scripting:** Bash, Python Automation, Web Scraping  
 
 ---
-
-### 🎧 Now Playing: "too forever" (Prod. by ARZ)
-[![SoundCloud](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SoundCloud_logo.svg/320px-SoundCloud_logo.svg.png)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
 
 
 ## 📅 Weekly Development Breakdown
