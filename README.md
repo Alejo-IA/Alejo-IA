@@ -16,7 +16,7 @@
   <img src="https://i.imgur.com/qNqzQPo.png" width="800" alt="Developer Banner">
 </div>
 
-<img align="right" width="300" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Developer Image">
+<img align="right" width="300" src="[https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg](https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg)" alt="Developer Image">
 
 I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**.  
 I specialize in building innovative, robust, and scalable solutions.
