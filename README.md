@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alejo-IA/Alejo-IA/main/assets/banner.png" width="800" alt="Profile Banner">
+  <img src="[https://raw.githubusercontent.com/Alejo-IA/Alejo-IA/main/assets/banner.png](https://t4.ftcdn.net/jpg/06/71/28/33/360_F_671283312_ib6uO3F02zWQXsPgCEaHF3LD7aB9Ltjt.jpg)" width="800" alt="Profile Banner">
 </div>
 
 ## 👨‍💻 About Me
