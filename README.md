@@ -2,6 +2,8 @@
 
 # Welcome to My GitHub Profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejo-IA)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@prodbyarz)
@@ -16,7 +18,12 @@
 
 <img align="right" width="300" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Developer Image">
 
-I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**. I specialize in building innovative, robust, and scalable solutions.
+I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**.  
+I specialize in building innovative, robust, and scalable solutions.
+
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&width=500&lines=Passionate+about+AI%2C+Cybersecurity+%26+Automation!;Always+learning+new+technologies...;Building+scalable+and+robust+solutions!" alt="Typing Animation">
+</div>
 
 📚 Currently studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**.  
 🎧 Also a **music producer** under the name **Prodbyarz**, creating beats and producing music.  
@@ -41,26 +48,22 @@ I am a **Software Engineer** and **Full Stack Developer** with experience in **P
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sales Management System</h3>
+      <h3 align="center">🚗 Sales Management System</h3>
       <div align="center">
         <a href="https://github.com/Alejo-IA/sales-management">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
         </a>
       </div>
-      <p align="center">
-        Sales management system for an auto parts store using Python and Django.
-      </p>
+      <p align="center">A sales management system for an auto parts store using Python and Django.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Beat Selling Platform</h3>
+      <h3 align="center">🎵 Beat Selling Platform</h3>
       <div align="center">
         <a href="https://github.com/Alejo-IA/beat-platform">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
         </a>
       </div>
-      <p align="center">
-        A music beat selling platform built with Flask and PostgreSQL.
-      </p>
+      <p align="center">A music beat selling platform built with Flask and PostgreSQL.</p>
     </td>
   </tr>
 </table>
@@ -87,4 +90,4 @@ JavaScript   8 hrs 12 mins   ██████▒░░░░░░░░░░
 HTML/CSS     4 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░  13.75%
 Django       2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░   7.38%
 SQL          1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░   4.25%
-Other        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░   2.98%
+Other        1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
