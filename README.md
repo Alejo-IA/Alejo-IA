@@ -1,36 +1,34 @@
 <div align="center">
-<h2>Welcome to my GitHub Profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2>Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <a href="https://github.com/Alejo-IA" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:alejandro.workspace@outlook.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@prodbyarz" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
 
 <br /><br />
 
-I am a **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**, focused on innovative solutions. Currently studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**.
+<img src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" width="600" alt="Developer Image">
 
-I specialize in system customization and code optimization, creating robust and scalable solutions.
+I am a **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**, focusing on innovative solutions. Currently, I am studying **Computer Engineering** at the **Universidad Autónoma Latinoamericana**.
 
-I am passionate about **artificial intelligence**, **web and mobile application development**, and **process automation**. Always seeking new challenges and opportunities to learn.
+I also specialize in system customization and code optimization, creating robust and scalable solutions.
 
-🎵 **In addition to programming, I am also a music producer. Check out my latest beat:**
-- [Latest Beat](https://www.youtube.com/watch?v=nJL2gcmeGI4&ab_channel=Prodbyarz)
+Apart from programming, I am a **music producer**, crafting beats under the name **Prodbyarz**. Check out my work:
+🎧 [My YouTube Channel](https://www.youtube.com/@prodbyarz)  
+🔥 [Latest Beat](https://www.youtube.com/watch?v=nJL2gcmeGI4&ab_channel=Prodbyarz)
 
-💻 **Working on projects like:**
-- 🔥 A sales management system for an auto parts store.
+🚀 **Projects I work on:**
+- ⚡ Development of a sales management system for an auto parts store.
 - 🎵 A beat-selling platform using Flask.
-- 🎧 A music recognition project with Android Studio.
-- 🌐 A webpage with animations and Spotify playlist visualization on GitHub Pages.
+- 🎧 A song recognition project with Android Studio.
+- 🌐 A web page with animations and visualization of Spotify playlists on GitHub Pages.
 
-Feel free to explore my projects, open issues, and send PRs if you have improvement ideas.<br />
+Feel free to explore my projects, open issues, and submit PRs if you have improvement ideas.<br />
 
-✉️ **Contact me for collaborations or work:** [Email](mailto:alejandro.workspace@outlook.com)
+✉️ **Contact me for collaboration or work opportunities:** [Email](mailto:alejandro.workspace@outlook.com)
 
 <br />
 
@@ -40,7 +38,7 @@ Feel free to explore my projects, open issues, and send PRs if you have improvem
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo-IA&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
 <br /><br />
 
-**Happy Coding & Music Production! 🚀🎶**
+**Happy Coding! 🚀**
 </div>
 
 ---
@@ -66,7 +64,7 @@ Feel free to explore my projects, open issues, and send PRs if you have improvem
 
 <br /><br />
 
-Always looking for new challenges and opportunities to learn more! 🚀
+Always seeking new challenges and opportunities to learn more! 🚀
 
 </div>
 
