@@ -16,7 +16,6 @@
   <img src="https://www.pngarts.com/files/1/Elements-Transparent-Background-PNG-1.png" width="800" alt="Developer Banner">
 </div>
 
-<img align="right" width="300" src="..." alt="Developer Image">
 
 I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**.  
 I specialize in building innovative, robust, and scalable solutions.
