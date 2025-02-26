@@ -16,7 +16,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh5ZXptODgzdm9pYm83d3BuanUyNml0ZXZkdm14djc1Y2twMDI5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Asz2o6s1WMzo0r6/giphy.gif" width="800" alt="Coding GIF">
 </div>
 
-<img align="right" width="300" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Developer Image">
+
 
 
 
