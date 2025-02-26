@@ -111,7 +111,7 @@ C++          3 hrs 45 mins   █▓░░░░░░░░░░░░░░░
 Bash         3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.25%
 Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   1.98%
 ```
-<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
-</div>
+
 
