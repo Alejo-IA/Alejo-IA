@@ -10,8 +10,6 @@
 
 ---
 
-## 🎧 Now Playing: "too forever" (Prod. by ARZ)
-
 <a href="https://soundcloud.com/prodbyarz/tooforever-prodbyarz">
   <img src="https://img.icons8.com/?size=100&id=95395&format=png&color=000000" width="100">
 </a>
