@@ -1,133 +1,85 @@
 <div align="center">
 
-# ¡Bienvenido a mi Perfil de GitHub! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
+# Welcome to My GitHub Profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejo-IA)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@prodbyarz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuUsuario)
 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alejo-IA/Alejo-IA/main/assets/banner.png" width="800" alt="Banner de Perfil">
+  <img src="https://raw.githubusercontent.com/Alejo-IA/Alejo-IA/main/assets/banner.png" width="800" alt="Profile Banner">
 </div>
 
-## 👨‍💻 Sobre Mí
+## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Imagen de Programador">
+<img align="right" width="300" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg" alt="Developer Image">
 
-Soy un **Ingeniero de Software** y **Desarrollador Full Stack** con experiencia en **Python, Flask, Django y PostgreSQL**. Me especializo en crear soluciones innovadoras, robustas y escalables.
+I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**. I specialize in building innovative, robust, and scalable solutions.
 
-📚 Actualmente estudio **Ingeniería Informática** en la **Universidad Autónoma Latinoamericana**.
+📚 Currently studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**.
 
-🎧 Además de la programación, soy **productor musical** bajo el nombre **Prodbyarz**, creando beats y produciendo música.
+🎧 Besides programming, I am also a **music producer** under the name **Prodbyarz**, creating beats and producing music.
 
-🌎 Ubicado en **Medellín, Colombia** y abierto a oportunidades de colaboración remotas.
+🌎 Based in **Medellín, Colombia**, open to remote collaboration opportunities.
+
+💡 Passionate about **artificial intelligence, cybersecurity, and automation**.
+
+📜 Constantly learning and improving my **problem-solving skills** and exploring **new technologies**.
 
 <div align="center">
   <a href="https://www.youtube.com/@prodbyarz">
-    <img src="https://img.shields.io/badge/Visita_mi_canal-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
+    <img src="https://img.shields.io/badge/Visit_my_channel-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel">
   </a>
   <a href="https://www.youtube.com/watch?v=nJL2gcmeGI4">
-    <img src="https://img.shields.io/badge/Último_Beat-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Latest Beat">
+    <img src="https://img.shields.io/badge/Latest_Beat-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="Latest Beat">
   </a>
 </div>
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Sistema de Gestión de Ventas</h3>
+      <h3 align="center">Sales Management System</h3>
       <div align="center">
         <a href="https://github.com/Alejo-IA/repo-link" target="_blank">
-          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Demo">
         </a>
       </div>
       <p align="center">
-        Desarrollo de un sistema de gestión de ventas para tienda de autopartes con Python y Django.
+        Sales management system for an auto parts store using Python and Django.
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Plataforma de Venta de Beats</h3>
+      <h3 align="center">Beat Selling Platform</h3>
       <div align="center">
         <a href="https://github.com/Alejo-IA/repo-link" target="_blank">
-          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
+          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
         </a>
         <a href="#" target="_blank">
           <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Demo">
         </a>
       </div>
       <p align="center">
-        Plataforma de venta de beats musicales utilizando Flask y PostgreSQL.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">App de Reconocimiento Musical</h3>
-      <div align="center">
-        <a href="https://github.com/Alejo-IA/repo-link" target="_blank">
-          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Demo">
-        </a>
-      </div>
-      <p align="center">
-        Proyecto de reconocimiento de canciones desarrollado con Android Studio y Firebase.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Visualizador de Playlists</h3>
-      <div align="center">
-        <a href="https://github.com/Alejo-IA/repo-link" target="_blank">
-          <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio">
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Demo">
-        </a>
-      </div>
-      <p align="center">
-        Web con animaciones y visualización de playlists de Spotify en GitHub Pages.
+        A music beat selling platform built with Flask and PostgreSQL.
       </p>
     </td>
   </tr>
 </table>
 
-## 💻 Tech Stack
+## 🔧 Tools & Technologies I Use
 
-<div align="center">
-
-### Lenguajes de Programación
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### Frameworks & Bibliotecas
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-
-### Bases de Datos
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-
-### Herramientas & Plataformas
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-</div>
+- **Version Control:** Git, GitHub
+- **Cloud & Deployment:** AWS, Docker, Vercel, Heroku
+- **DevOps & CI/CD:** GitHub Actions, Jenkins
+- **Cybersecurity & Hacking:** Ethical Hacking, Kali Linux, Metasploit
+- **Artificial Intelligence:** TensorFlow, OpenAI API, Scikit-Learn
+- **Automation & Scripting:** Bash, Python Automation, Web Scraping
 
 ## 📈 GitHub Stats
 
@@ -139,42 +91,34 @@ Soy un **Ingeniero de Software** y **Desarrollador Full Stack** con experiencia 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejo-IA&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages">
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alejo-IA&theme=darkhub&no-frame=true&row=1&column=7" alt="trophy">
-</div>
+## 🎯 Future Goals & Learning Path
 
-## 🏆 Certificaciones & Logros
+- 🔥 Master **Machine Learning and AI** for real-world applications
+- 🔥 Learn **Rust and Go** for high-performance programming
+- 🔥 Explore **Blockchain development**
+- 🔥 Improve **Cybersecurity & Ethical Hacking** skills
 
-- Certificación en Desarrollo Web - Platzi
-- Curso Avanzado de Python - Udemy
-- Curso de Producción Musical - Point Blank Music School
-- Finalista en Hackathon Local de Innovación Tecnológica 2024
+## 🏆 Certifications & Achievements
 
-## 📫 Contacto
+- Web Development Certification - Platzi  
+- Advanced Python Course - Udemy  
+- Music Production Course - Point Blank Music School  
+- Finalist in 2024 Local Tech Innovation Hackathon  
+- **Certified Ethical Hacker (CEH) - In Progress**
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-alejandro.workspace@outlook.com-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Prodbyarz-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@prodbyarz)
+## 🌟 Hobbies & Interests
 
-</div>
-
-<div align="center">
-  <p>¿Interesado en colaborar o contratar mis servicios? ¡No dudes en contactarme! Estoy abierto a nuevas oportunidades y proyectos interesantes.</p>
-</div>
-
-## 🌟 Pasatiempos & Intereses
-
-- 🎧 Producción musical y creación de beats
-- 📚 Aprendizaje continuo de nuevas tecnologías
-- 🎮 Desarrollo de videojuegos independientes
-- 🏃‍♂️ Deportes y actividades al aire libre
+- 🎧 Music production and beat making  
+- 📚 Continuous learning of new technologies  
+- 🎮 Indie game development  
+- 🏃‍♂️ Sports and outdoor activities  
+- 🎨 Digital art & UI/UX design  
 
 ---
 
 <div align="center">
   
-### "El código es como la poesía, debe ser simple y elegante."
+### "Code is like poetry, it should be simple and elegant."
 
 <img src="https://komarev.com/ghpvc/?username=Alejo-IA&style=flat-square&color=00FF00" alt="Profile views">
 
