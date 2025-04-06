@@ -1,27 +1,14 @@
 <div align="center">
 
-# Welcome to My GitHub Profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
+# 🛡️ Welcome to My GitHub Profile! 🛡️ <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-
-
+### "Security is not a product, but a process." – Bruce Schneier
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alejo-IA)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alejandro.workspace@outlook.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@prodbyarz)
-
----
-
-<a href="https://soundcloud.com/prodbyarz/tooforever-prodbyarz">
-  <img src="https://img.icons8.com/?size=100&id=95395&format=png&color=000000" width="100">
-</a>
-
-🔗 **Listen now:** [too forever (Prod. by ARZ)](https://soundcloud.com/prodbyarz/tooforever-prodbyarz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
-
-
 
 ## 👨‍💻 About Me
 
@@ -29,93 +16,62 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh5ZXptODgzdm9pYm83d3BuanUyNml0ZXZkdm14djc1Y2twMDI5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1Asz2o6s1WMzo0r6/giphy.gif" width="800" alt="Coding GIF">
 </div>
 
-
-
-
-
-I am a **Software Engineer** and **Full Stack Developer** with experience in **Python, Flask, Django, and PostgreSQL**.  
-I specialize in building innovative, robust, and scalable solutions.
+I am a **Computer Engineer** and **Cybersecurity Professional** passionate about building resilient, secure, and intelligent systems. I aim to lead with strategy, governance, and technical depth in the field of cybersecurity.
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&width=500&lines=Passionate+about+AI%2C+Cybersecurity+%26+Automation!;Always+learning+new+technologies...;Building+scalable+and+robust+solutions!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=00FF00&center=false&vCenter=true&width=600&lines=Future+Cybersecurity+Director+%7C+Engineer+%7C+Security+Leader;Governance%2C+Risk+and+Compliance+%28GRC%29+Focused;Proficient+in+Security+Architectures+%26+Frameworks;Threat+Modeling+%7C+Risk+Assessment+%7C+Red+%2B+Blue+Team+Thinking" alt="Typing Animation">
 </div>
 
-📚 Currently studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**.  
-🎧 Also a **music producer** under the name **Prodbyarz**, creating beats and producing music.  
-🌎 Based in **Medellín, Colombia**, open to remote collaboration opportunities.  
-💡 Passionate about **AI, cybersecurity, and automation**.  
-📜 Constantly learning and exploring **new technologies**.  
+🎓 Studying **Computer Engineering** at **Universidad Autónoma Latinoamericana**  
+🌐 Deep interest in **Cybersecurity Leadership**, **Enterprise Security Architecture**, and **Threat Intelligence**  
+🛡️ Focused on **Cyber Risk Management**, **Security Governance**, and **Incident Response**  
+📈 Advocating **Cybersecurity Maturity**, **Continuous Monitoring**, and **Zero Trust Architecture**  
+🌎 Based in **Medellín, Colombia**, open to global security leadership opportunities  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Cybersecurity Leadership Competencies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejo-IA&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00FF00&icon_color=00FF00&text_color=D3D3D3" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alejo-IA&theme=highcontrast&background=0A0A0A&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alejo-IA&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-</div>
+### 🔐 Security Strategy and Governance
+- Security program development and management
+- Executive communication and security awareness
+- Security budget planning and resource allocation
+- Security metrics and KPI development
+
+### 📊 Risk Management & Compliance (GRC)
+- Enterprise risk assessment methodologies
+- Regulatory compliance management
+- Security posture measurement and reporting
+- Third-party risk management
+
+### 🛠️ Security Architecture Design
+- Zero Trust Architecture implementation
+- Cloud security architecture
+- Network segmentation and defense-in-depth
+- Secure-by-design principles
+
+### 🔍 Threat Intelligence & Threat Hunting
+- Advanced threat detection strategies
+- Threat modeling and risk forecasting
+- Vulnerability management lifecycle
+- Proactive threat hunting
+
+### 🚨 Incident Response & Crisis Management
+- Incident response planning and tabletop exercises
+- Digital forensics capabilities
+- Business continuity and disaster recovery
+- Crisis communication and management
+
+### 📄 Security Policy Development
+- Security policy framework creation
+- Procedure and standard documentation
+- Security awareness program development
+- Technical security standards
 
 ---
 
-## 🚀 Featured Projects
+## 📘 Frameworks & Control Standards
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🚗 Sales Management System</h3>
-      <div align="center">
-        <a href="https://github.com/Alejo-IA/sales-management">
-          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-        </a>
-      </div>
-      <p align="center">A sales management system for an auto parts store using Python and Django.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎵 Beat Selling Platform</h3>
-      <div align="center">
-        <a href="https://github.com/Alejo-IA/beat-platform">
-          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-        </a>
-      </div>
-      <p align="center">A music beat selling platform built with Flask and PostgreSQL.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔧 Tools & Technologies
-
-- **Version Control:** Git, GitHub  
-- **Cloud & Deployment:** AWS, Docker, Vercel, Heroku  
-- **DevOps & CI/CD:** GitHub Actions, Jenkins  
-- **Cybersecurity & Hacking:** Ethical Hacking, Kali Linux, Metasploit  
-- **Artificial Intelligence:** TensorFlow, OpenAI API, Scikit-Learn  
-- **Automation & Scripting:** Bash, Python Automation, Web Scraping  
-
----
-
-
-## 📅 Weekly Development Breakdown
-
-
-```text
-Python       24 hrs 32 mins  ██████████████▒░░░░░░░░░  49.88%
-JavaScript   16 hrs 12 mins  ██████████▒░░░░░░░░░░░░░  28.76%
-HTML/CSS     12 hrs 45 mins  ██████▓░░░░░░░░░░░░░░░░░  15.75%
-Django       10 hrs 33 mins  ████▒░░░░░░░░░░░░░░░░░░░   8.38%
-SQL          9 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░   6.25%
-Kotlin       5 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░   3.75%
-C++          3 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.65%
-Bash         3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░   2.25%
-Other        2 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░   1.98%
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alejo-IA&color=blue&style=for-the-badge)
-
-## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/1292125138975985737)](https://discord.com/users/1292125138975985737)
-
-
-
+    <td align="center"><img src="https://img.shields.io/badge/NIST CSF-01689e?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5gQTESAMZXl3cQAAAvBJREFUSMftlj9oU1EUxn/nvvNsC9EO0nQQO/gHdRAXwUEQhOLioBgRbDcHURDtIFVbSBsHK1UXRz8IHdTBRRQRRFx0s4OTWhBBrFprXpKXlzT3HoeA9L28pC/BSfiW+91zvnPuveee/xE26PJQdGb/nFEiR3ON2a4yAhL2rNJJkTdKhGMiSMdKdDDbaUQ/CRG2IaAOFSv6OKvCTeAlECl0T8kW1TDrh0B/KVQNwDPdWy/UMzWS/2xVo0cOjwIrAHbKrLQHFhGsKwRBsHtR1fAqbhPgWz8K1QjZcyOZs0XCpJSKUhP4Ut5qY6tXgP5mf/1ioayDdkqkJpdLf98qZUg5I/mTgENCbRgr9lQP8
